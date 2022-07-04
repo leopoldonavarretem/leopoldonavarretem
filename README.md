@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![Leopoldonavarretem's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopoldonavarretem&theme=aura)
+![Leopoldonavarretem's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopoldonavarretem&theme=aura)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldonavarrete&layout=compact&theme=aura)
