@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![Leopoldonavarretem's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopoldonavarretem&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldonavarretem&theme=radical)](https://github.com/leopoldonavarretem/github-readme-stats)
+![Leopoldonavarretem's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopoldonavarretem&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldonavarretem&layout=compact&theme=radical)](https://github.com/leopoldonavarretem/github-readme-stats)
