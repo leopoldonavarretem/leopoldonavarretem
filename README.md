@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Github Stats:**
 
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=leopoldonavarretem&count_private=true&show_icons=true&theme=radical&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldonavarretem&count_private=true&theme=radical&line_height=10">
 
-![Leopoldonavarretem's GitHub stats](https://github-readme-stats.vercel.app/api?username=leopoldonavarretem&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldonavarretem)](https://github.com/leopoldonavarretem/github-readme-stats)
+</p>
