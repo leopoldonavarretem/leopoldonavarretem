@@ -1,5 +1,5 @@
 <h1>👋 Hi there! Nice to meet you!</h1>
-<p>My name is Leopoldo Navarrete. I am full stack web developer with an interest in project Management. I'm constantly learning and updating the technologies I work with, however, I try to master the one's that I already use first. Feel free to send me a message on my <a href="https://www.linkedin.com/in/leopoldonavarretem/"><b>LinkedIn</b></p>
+<p>My name is Leopoldo Navarrete. I am full stack web developer with an interest in Project Management. I'm constantly learning and updating the technologies I work with, however, I try to master the one's that I already use first. Feel free to send me a message on my <a href="https://www.linkedin.com/in/leopoldonavarretem/"><b>LinkedIn</b></p>
 
 <h2>🚀 About me</h2>
 <ul>
